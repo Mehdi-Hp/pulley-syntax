@@ -1,8 +1,15 @@
 @import "syntax-variables";
 
 body {
-   color: white;
+   background: @background-color;
+   color: @syntax-plain-text-color;
 }
+
+// atom-workspace {
+//    font-family: 'Ubuntu', 'Roboto', 'Helvetica', 'Arial', sans-serif;
+//    background-color: @background-color;
+//    color: rgba(255, 255, 255, 0.8);
+// }
 
 atom-text-editor, :host {
    background-color: @background-color;
@@ -383,5 +390,16 @@ atom-text-editor .entity.name.tag.block.any.html.angular, atom-text-editor::shad
 .punctuation.section.embedded.end.php,
 .punctuation.section.embedded.begin.php {
    color: lighten(@background-color, 15%);
+   font-weight: bold;
+}
+.text {
+   color: rgb(255, 255, 255);
+}
+.list-tree {
+   font-family: Ubuntu condensed;
+   font-weight: bold;
+}
+.tab-bar .tab {
+   font-family: Ubuntu condensed;
    font-weight: bold;
 }

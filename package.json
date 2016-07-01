@@ -8,7 +8,7 @@
     "theme",
     "dark"
   ],
-  "repository": "https://github.com/atom/pulley-syntax",
+  "repository": "https://github.com/Mehdi-Hp/pulley-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
