@@ -12,7 +12,19 @@ A pulley is a wheel on an axle or shaft that is designed to support movement and
 
 pulley cares about your eyes👁 (and your brain). It doesn't use high contrast colors.
 
-![](https://raw.githubusercontent.com/Mehdi-Hp/pulley-syntax/master/images/syn-tags.png) <span class="carrd__text">HTML Tags</span> ![](https://raw.githubusercontent.com/Mehdi-Hp/pulley-syntax/master/images/syn-attribute.png) <span class="carrd__text">HTML Attributes</span> ![](https://raw.githubusercontent.com/Mehdi-Hp/pulley-syntax/master/images/syn-object.png) <span class="carrd__text">JSON / Objects</span> ![](https://raw.githubusercontent.com/Mehdi-Hp/pulley-syntax/master/images/syn-string.png) <span class="carrd__text">Strings</span> ![](https://raw.githubusercontent.com/Mehdi-Hp/pulley-syntax/master/images/syn-functions.png) <span class="carrd__text">All Functions</span> ![](https://raw.githubusercontent.com/Mehdi-Hp/pulley-syntax/master/images/syn-keywords.png) <span class="carrd__text">Keywords</span>
+![](https://raw.githubusercontent.com/Mehdi-Hp/pulley-syntax/master/images/syn-tags.png)
+###HTML Tags
+ ![](https://raw.githubusercontent.com/Mehdi-Hp/pulley-syntax/master/images/syn-attribute.png)
+###HTML Attributes
+ ![](https://raw.githubusercontent.com/Mehdi-Hp/pulley-syntax/master/images/syn-object.png)
+###JSON / Objects
+ ![](https://raw.githubusercontent.com/Mehdi-Hp/pulley-syntax/master/images/syn-string.png)
+###Strings
+ ![](https://raw.githubusercontent.com/Mehdi-Hp/pulley-syntax/master/images/syn-functions.png)
+###All Functions
+ ![](https://raw.githubusercontent.com/Mehdi-Hp/pulley-syntax/master/images/syn-keywords.png)
+###Keywords
+
 
 ## 🈹 Language support
 
