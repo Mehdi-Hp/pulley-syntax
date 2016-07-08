@@ -1,0 +1,150 @@
+img {
+   max-width: 100%;
+}
+a {
+   color: #eebc1f;
+}
+h1, h2, h3, h4, h5 {
+   margin: 0;
+}
+
+body {
+   font-family: 'Catamaran', sans-serif;
+   font-size: 1.2rem;
+   max-width: 960px;
+   margin: 0 auto;
+   padding: 2rem;
+   background-image: url('./bg-pattern.png');
+   background-size: 5%;
+   color: #263238;
+}
+main {
+   background: #fff;
+   box-shadow: 0px 2px 20px -10px black;
+   border-radius: 5px;
+}
+.container {
+   padding: 0 100px;
+}
+.header {
+   display: flex;
+   flex-direction: column;
+   padding: 1rem 0;
+}
+
+.header__project-name {
+   margin: 0;
+   margin-top: 2rem;
+}
+
+.header__project-description {
+   display: flex;
+   color: #78909c;
+   justify-content: center;
+}
+.header__project-tagline {
+   font-weight: normal;
+   font-size: 2rem;
+   display: flex;
+   align-items: center;
+}
+.header__project-by {
+   display: flex;
+   align-items: center;
+   margin: .5rem;
+   padding: .25rem .5rem .25rem .5rem;
+   background-color: rgba(120, 144, 156, 0.05);
+}
+.header__links {
+   display: flex;
+   padding: 1rem;
+   margin-top: 2rem;
+   justify-content: center;
+}
+.button {
+   padding: 1rem 2rem;
+   background: #a0b1b9;
+   text-decoration: none;
+   color: #f5f5f5;
+   font-size: 1.1rem;
+   text-shadow: 0px 1px 5px rgba(0, 0, 0, 0.25);
+   border-radius: 50px;
+   cursor: pointer;
+}
+.button:hover {
+   background: #849aa4;
+}
+.wikipedia {
+   display: flex;
+   flex-direction: column;
+   background: #78909c;
+   color: #fff;
+   padding: 1rem 0;
+}
+.wikipedia__content {
+   display: flex;
+   margin: 0;
+}
+.wikipedia__by {
+   display: flex;
+   justify-content: flex-end;
+   font-weight: bold;
+}
+.article {
+   margin-top: 2rem;
+   padding: 1rem 0;
+}
+.article__section {
+   margin: 4rem 0;
+}
+.article__section:first-of-type {
+   margin: 0;
+}
+.article__title {
+
+}
+.article__content {
+
+}
+.cards {
+   display: flex;
+   flex-wrap: wrap;
+}
+.card {
+   margin: .5%;
+   width: 100%;
+   margin: .5%;
+   border: 2px solid #f7f7f7;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background: #fdfdfd;
+   padding: 1rem;
+   justify-content: flex-start;
+}
+.card--half {
+   margin: .5%;
+   width: 44%;
+   margin: .5%;
+   border: 2px solid #f7f7f7;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background: #fdfdfd;
+   padding: 1rem;
+   justify-content: flex-start;
+}
+.card__image {
+   width: 40%;
+}
+.carrd__text {
+   display: flex;
+   font-size: 6rem;
+   margin-left: 1rem;
+   line-height: 1;
+}
+code {
+   padding: .25rem .5rem;
+   background: whitesmoke;
+   font-size: .9em;
+}
