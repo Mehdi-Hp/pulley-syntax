@@ -1,7 +1,7 @@
 {
   "name": "pulley-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Syntax theme optimized for Front-End devlopment",
   "keywords": [
     "syntax",
