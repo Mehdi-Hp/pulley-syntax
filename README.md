@@ -41,7 +41,7 @@ I don't know. physics stuff. 😵
 
 ## 🤘 How to use (actually)
 
-Install it with `apn install pulley-syntax`
+Install it with `apm install pulley-syntax`
 
 Or search🔍 for `pulley-syntax` in packages page.
 
